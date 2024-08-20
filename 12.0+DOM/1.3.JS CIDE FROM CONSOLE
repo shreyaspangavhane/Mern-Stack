@@ -1,0 +1,38 @@
+document.getElementsByTagName("li");
+HTMLCollection(3) [li.item, li.item, li.item]
+
+document.getElementsByTagName("body");
+HTMLCollection [body]
+
+document.getElementsByTagName("button");
+HTMLCollection [button.btn]
+
+document.getElementsByTagName("a");
+HTMLCollection [a]
+
+document.getElementsByTagName("input");
+HTMLCollection [input]
+
+document.getElementsByTagName("li")[2].style.color='blue';
+'blue'
+
+document.getElementsByTagName("li").length;
+3
+
+----------------------------------------------------------------------
+
+document.getElementsByClassName("btn");
+HTMLCollection [button.btn]
+
+document.getElementsByClassName("btn")[0].style.color="red";
+'red'
+
+===============================================================
+
+
+document.querySelector("button").style.color='red';
+'red'
+
+
+document.querySelector(".btn").style.color='blue';
+'blue'
