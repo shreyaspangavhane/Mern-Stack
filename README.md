@@ -2,7 +2,9 @@
 
 <h2>Overview</h2>
 <p>This project demonstrates a full-stack web application built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. The application showcases the integration of these technologies to create a dynamic and responsive web application.</p>
+<br>
 <ul>
+
   <li>Frontend: HTML, CSS, JavaScript, React.js</li>
     <ul>
       <li>Responsive design with CSS</li>
