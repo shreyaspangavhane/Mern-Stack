@@ -9,6 +9,16 @@
       <li>Client-side routing and state management</li>
     </ul>
   </li>
-  <li></li>
-  <li></li>
+  <li>Backend: Node.js, Express.js</li>
+    <ul>
+      <li>RESTful API implementation</li>
+      <li>Middleware for handling requests and authentication</li>
+      <li>Data validation and error handling</li>
+    </ul>
+  <li>Database: MongoDB</li>
+  <ul>
+      <li>Schema design with Mongoose</li>
+      <li>CRUD operations for managing data</li>
+      <li>Integration with backend using Mongoose</li>
+    </ul>
 </ul>
